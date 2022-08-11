@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yogeshkumar17
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning react js
+- 👀 I’m working as a full stack developer
+- 🌱 I’m currently working on Angular and spring boot java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me yogeshkumarchandrasekar17@gmail.com
 
