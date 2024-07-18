@@ -1,7 +1,7 @@
 ## Hi there, I'm Yogesh 👋
 
 ### About Me
-I'm a dedicated and results-driven Senior Software Engineer with over [X] years of experience in developing and optimizing full-stack web applications using Angular and Spring Boot. I have a keen interest in translating Swift MT messages to MX messages, ensuring seamless integration and compliance with financial messaging standards.
+I'm a dedicated and results-driven Senior Software Engineer with over 3 years of experience in developing and optimizing full-stack web applications using Angular and Spring Boot. I have a keen interest in translating Swift MT messages to MX messages, ensuring seamless integration and compliance with financial messaging standards.
 
 ### 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
